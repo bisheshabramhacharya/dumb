@@ -1,0 +1,7 @@
+Payments change, in order:
+1. Rebase onto main
+2. Run the full test suite
+3. Bump VERSION 2.4.1 to 2.5.0
+4. Update CHANGELOG.md
+5. Push, open a PR
+Later: land-and-deploy runs canary checks against prod, then document-release syncs the API docs.

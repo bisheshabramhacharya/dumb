@@ -1,0 +1,6 @@
+Homepage problems, in priority order:
+1. Hero: whitespace utilization is suboptimal
+2. Type scale lacks hierarchical differentiation
+3. CTA contrast 4.1:1 — needs 4.5:1 (WCAG AA)
+4. Card grid: 8pt spacing violated at 768px
+Next: fix the contrast first — it's the only accessibility failure.

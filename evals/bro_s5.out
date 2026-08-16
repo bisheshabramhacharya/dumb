@@ -1,0 +1,1 @@
+Ok so, basically all of this got done: magic links work, token refresh refactored, login page updated, cookie settings changed, redirect bug fixed, tests updated, README fixed.
