@@ -1,0 +1,1 @@
+O teste falha em src/auth.spec.ts:42: esperava 200, recebeu 401. A causa é o header Authorization ausente na chamada em src/api/client.ts:88.

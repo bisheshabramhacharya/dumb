@@ -1,0 +1,1 @@
+Mano, basicamente o teste tá falhando em src/auth.spec.ts:42: esperava 200, veio 401. O motivo é que a chamada em src/api/client.ts:88 não manda o header Authorization. Corrige isso e roda npm test de novo.

@@ -1,0 +1,5 @@
+Ok so, the homepage basically has three problems:
+1. The hero section wastes space
+2. The font sizes don't show which text matters more
+3. The buttons are too low-contrast: 4.1:1, needs 4.5:1 (WCAG AA)
+Also: the card grid breaks the 8pt spacing at the 768px tablet breakpoint.

@@ -1,0 +1,1 @@
+The hero section exhibits suboptimal whitespace utilization and the type scale lacks hierarchical differentiation; the CTA buttons suffer from insufficient contrast ratio (4.1:1 versus the WCAG AA requirement of 4.5:1), and the card grid violates the 8pt spacing system at the tablet breakpoint (768px).

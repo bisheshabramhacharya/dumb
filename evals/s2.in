@@ -1,0 +1,1 @@
+To get the payments change out: 1) rebase onto main, 2) run the full test suite, 3) bump VERSION from 2.4.1 to 2.5.0, 4) update CHANGELOG.md with the new entry, 5) push and open a PR, 6) after merge, land-and-deploy runs canary checks against prod, 7) run document-release to sync the API docs.

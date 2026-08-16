@@ -1,0 +1,1 @@
+I've now done a bunch of things to the auth flow: I've added magic links, refactored the token refresh, updated the login page, changed the cookie settings, fixed the redirect bug, and also updated the tests. Among other things. Also the README was stale so I fixed that too. Let me know if you need anything else.

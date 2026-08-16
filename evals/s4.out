@@ -1,0 +1,5 @@
+Recommendation: Vercel — fits a ~40MB repo, weekly deploys, team of 3 people; zero ops.
+1. Vercel — easiest; deploys every push; generous free tier
+2. Fly.io — more control; pay as you go; more setup
+3. GitHub Pages — free, but static-only
+Trade-off: if you need a backend, Pages is out; Vercel still fits.

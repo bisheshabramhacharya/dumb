@@ -1,0 +1,5 @@
+Three DNS changes:
+1. Point the A record at 104.21.55.123
+2. Set CNAME www to cdn.example.com
+3. API base URL: https://api.dumb.app/v2 — rate limit 60 req/min, key sk_live_9f2a
+Next: do the A record first — DNS propagates slowest.

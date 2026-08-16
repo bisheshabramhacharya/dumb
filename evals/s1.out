@@ -1,0 +1,3 @@
+Test fails at tests/payments.spec.ts:42: expected 200, got 401.
+Cause: the fetch at src/api/client.ts:88 never sends Authorization — the token is read from localStorage under key pay_token, which the test harness never sets.
+Fix: send the header from the token, then run npm test -- payments.spec.ts.

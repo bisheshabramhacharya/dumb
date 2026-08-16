@@ -1,0 +1,6 @@
+Ok so, all of this is done now:
+1. Magic links work, token refresh refactored, login page updated, cookie settings changed
+2. Redirect bug fixed
+3. Tests updated
+4. README fixed
+Next: open /login and try a magic-link sign-in — under a minute.

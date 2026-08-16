@@ -1,0 +1,1 @@
+Point your DNS A record at 104.21.55.123, set the CNAME www to cdn.example.com, and the API base URL is https://api.dumb.app/v2 — rate limit 60 req/min with key sk_live_9f2a.
